@@ -1,0 +1,6 @@
+rofi.theme: /usr/share/rofi/themes/Monokai.rasi
+rofi.combi-modi: drun,run
+rofi.modi: combi
+rofi.sort: true
+rofi.sorting-method: normal
+rofi.combi-hide-mode-prefix: true

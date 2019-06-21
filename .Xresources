@@ -1,0 +1,32 @@
+!-------------------------------------------------------------------------------
+! Xft settings
+!-------------------------------------------------------------------------------
+
+Xft.dpi:                    96
+Xft.antialias:              true
+Xft.rgba:                   rgb
+Xft.hinting:                true
+Xft.hintstyle:              hintslight
+!-------------------------------------------------------------------------------
+! XTerm settings
+!-------------------------------------------------------------------------------
+XTerm*Background: black
+XTerm*Foreground: white
+XTerm*ScrollBar: off
+
+XTerm*renderFont: true
+XTerm*faceName: VeraMono
+XTerm*faceSize: 14
+!-------------------------------------------------------------------------------
+! UXTerm settings
+!-------------------------------------------------------------------------------
+UXTerm*Background: black
+UXTerm*Foreground: white
+UXTerm*ScrollBar: off
+
+UXTerm*renderFont: true
+UXTerm*faceName: VeraMono
+UXTerm*faceSize: 14
+!-------------------------------------------------------------------------------
+! END
+!-------------------------------------------------------------------------------

@@ -1,0 +1,5 @@
+[Default Applications]
+inode/directory=xfe.desktop
+
+[Added Associations]
+inode/directory=xfe.desktop;

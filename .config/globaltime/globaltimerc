@@ -1,0 +1,10 @@
+[Default Values]
+X-pos=0
+Y-pos=18
+Decorations=1
+Expand=0
+tz=/etc/localtime
+
+[Czas lokalny]
+name=Czas lokalny
+tz=/etc/localtime

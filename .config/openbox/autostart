@@ -1,0 +1,13 @@
+# NOW USING .config/autostart by XDG!
+# compton -b -d :0 --backend xr_glx_hybrid --dbus --vsync opengl-swc --glx-no-stencil --dbe &
+# stalonetray &
+# synapse -s &
+# nm-applet &
+# blueman-applet &
+# pasystray &
+# x-tile &
+# Dirty hack here!
+# killall -9 compton &
+# /home/khazakar/.screenlayout/home.sh &
+# feh --bg-scale /home/khazakar/Obrazy/wall.png &
+# (sleep 1 && compton -b -d :0 --backend xr_glx_hybrid --dbus --vsync opengl-swc --glx-no-stencil --dbe) &

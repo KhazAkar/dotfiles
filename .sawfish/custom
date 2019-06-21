@@ -1,0 +1,13 @@
+;; Sawfish user customization -- do not edit by hand!
+;; Use the configurator instead.
+;; sawfish version 1.11, written Tue May 28 13:47:12 2019
+
+(custom-set-typed-variable (quote wallpaper-display-type) (quote auto/none) (quote (choice auto/none centered tiled scaled streched zoom spanned)))
+(custom-set-typed-variable (quote set-wallpaper-xfce4) (quote t) (quote boolean))
+(custom-set-typed-variable (quote set-wallpaper-gnome2) (quote t) (quote boolean))
+(custom-set-typed-variable (quote root-wallpaper) (quote "/home/khazakar/Obrazy/wall.png") (quote image))
+(custom-set-typed-variable (quote init-wallpaper) (quote t) (quote boolean))
+(custom-set-typed-variable (quote use-custom-border) (quote ()) (quote boolean))
+(custom-set-typed-variable (quote default-frame-style) (quote candido) (quote frame-style))
+(custom-set-typed-variable (quote use-custom-font) (quote ()) (quote boolean))
+(custom-set-typed-variable (quote default-font) (quote ("Pango" . "Adobe Helvetica 10")) (quote font))

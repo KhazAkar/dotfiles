@@ -1,0 +1,6249 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tags>
+
+  <resource identifier="${gimp_data_dir}/brushes/Round.vbr" checksum="a7f02530d3bc7484c8f9240cbe9c65b1">
+    <tag>zaokrąglony</tag>
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Round-Fuzzy.vbr" checksum="f8cb2466841104a55e42afce4568d103">
+    <tag>rozmyty</tag>
+    <tag>zaokrąglony</tag>
+  </resource>
+
+  <resource identifier="gimp-brush-clipboard-mask" checksum="157dcef48665ab465439cfaf10d6feeb">
+  </resource>
+
+  <resource identifier="gimp-brush-clipboard-image" checksum="157dcef48665ab465439cfaf10d6feeb">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Basic/1-pixel.vbr" checksum="c84494b4a904a7c1a3548e564b073ca3">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Block-01.vbr" checksum="11dc53930c1fb124f5502d3e2dba4c8e">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Block-02.vbr" checksum="23b547a4b3ac156c4efba20bbb91a662">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Block-03.vbr" checksum="678860176ea362c2d3db787b8b0710fa">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Hardness-025.vbr" checksum="24f599a94c72395b1733a8cf64bf4527">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Hardness-050.vbr" checksum="22550538bb856626930902cb0c398f74">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Hardness-075.vbr" checksum="c196ef1b139d8f2744e6519c7a220cf1">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Hardness-100.vbr" checksum="22b8f688f7cd7d6139c56dfc33b14bfd">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Star.vbr" checksum="fdd1163d5fdf7371df2dd7896e79231a">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Acrylic-01.gih" checksum="9ec0779f4c84fb3d0844bcdb069c8e0a">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Acrylic-02.gih" checksum="da0b21c73078882a59430ce68e8860b9">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Acrylic-03.gih" checksum="46c0656093b556418dbcd24de48a2596">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Acrylic-04.gih" checksum="11311bde958533f3b7ada598af5c6d46">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Acrylic-05.gih" checksum="69d6b269dffc2db6a6f44b380aaf1e5e">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Legacy/confetti.gih" checksum="d136b60fdd9cf41693a485a329b32e95">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Bristles-01.gbr" checksum="fdb59dabc3b9fc9716bd87cfe225ba3b">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Bristles-02.gbr" checksum="6432476cb5cb5b5642433465e23f7402">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Bristles-03.gbr" checksum="6162ce91b1218ec8f0f98bfab930d5bf">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Cell-01.gbr" checksum="4814485c0f5974fa193eb15f710c3d1c">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Cell-02.gbr" checksum="e5ce74dd25bdd3fc05ab8d930c6f9e44">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Sketch/Chalk-01.gih" checksum="832186dc1b71adbcb2f1a6ba08ce302f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Sketch/Chalk-02.gih" checksum="27729bcad9c20129add5833bfcba2da8">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Sketch/Chalk-03.gih" checksum="6d195118ceb4102d508eb3faedcf6dcc">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Sketch/Charcoal-01.gbr" checksum="1cd3f9664c688103f0b230299dcf6987">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Sketch/Charcoal-02.gbr" checksum="e77611c1661ab0d3bf4503d3238a5644">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Sketch/Charcoal-03.gih" checksum="2be01e62b00a1c1fdc13aa92a7a91a6a">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Legacy/confetti.gbr" checksum="ba5a4759cb321b81e232bba3f33dce76">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Fun/GEGL-goat.gih" checksum="7a80114d08663b04b3825b92db7e98c4">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Grass.gih" checksum="81d3c86640806e7ad40f5e0c93d941ef">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Splatters/Grunge-01.gih" checksum="c9997d3cd91fccddfac507856b7dc17b">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Hatch-Pen-01.gbr" checksum="97bc16ea1390946dc8f2c626294af921">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Oils-01.gbr" checksum="31ae0d62365e54402dcfe80784c6d691">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Oils-02.gbr" checksum="21f2ec5f7d414a2f3fffa97752675f55">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Oils-03.gbr" checksum="0128fe2fd4bdf5894c52c787f742b587">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Sketch/Pencil-01.gih" checksum="775f1ee9e24fd5b71433472a5bf168ef">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Sketch/Pencil-02.gih" checksum="1f5cae22c8f8d30e027ade099c69d34c">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Sketch/Pencil-03.gih" checksum="60089770c393b8f84c0b1238b2d818cc">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Sketch/Pencil-Scratch.gbr" checksum="4213a17b290fd39a5c6c72d75b1aa4ac">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Basic/pixel.gbr" checksum="ce0705096e61dc0645b2c13a122d8e8f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Smoke.gbr" checksum="eb1577def9f3a209b3457a9c99333dd9">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Splatters/Sparks-Hose.gih" checksum="50faf43769ea9c6986fa38839e348b77">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Splatters/Splats-01.gih" checksum="5ce135cbb844ce745db15150c15acde9">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Splatters/Splats-02.gih" checksum="e2352e2b26137b13161a859209e89b95">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Splatters/Sponge-01.gbr" checksum="355cc39ffe2d0fb382a51eb0a806f2bb">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Splatters/Sponge-02.gbr" checksum="4c0798a6621eef155dc86a79fe5df810">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Stone-Work-01.gih" checksum="8f1a964051f81e166def5b00fce15e27">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Texture-01.gbr" checksum="6c41a55e3cfaf5dc03988f05be6106f8">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Texture-02.gbr" checksum="a2459f434c81d8eefeb063c005db9d80">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Texture-Hose-01.gih" checksum="c36845a56879e601fbfeada31f5b414b">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Texture-Hose-02.gih" checksum="bfd5be7b42a28d038930f1aef897320d">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Texture-Hose-03.gih" checksum="d2818e2a9346edf7c76aeea5a215f5ca">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Vegetation-01.gbr" checksum="5f180b3d17ee11a9367489f2a597a451">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Vegetation-02.gih" checksum="6ce358a6a63479e729469f64bc77e361">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Legacy/vine.gih" checksum="3963e1de9cf5ead1f8cb6332b9351c6f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Fun/Wilber.gih" checksum="1525d51a45fc9c0fea1cc1a0bf4d5b2a">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Fun/pepper.gbr" checksum="de818baf36685bdd260055a3e0204d57">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Basic-Dynamics.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Basic/Basic-Simple.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Color-From-Gradient.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/FX/Confetti.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Dynamics-Off.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Basic/Dynamics-Random.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Fade-Tapering.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Basic/Negative-Size-Pressure.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Basic/Pen-Generic.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Basic/Pencil-Generic.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Basic/Pencil-Shader.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/FX/Perspective.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Basic/Pressure-Opacity.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Basic/Pressure-Size.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Random-Color.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/FX/Speed_Size_Opacity.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Tilt-Angle.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Track-Direction.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Velocity-Tapering.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="gimp-pattern-clipboard-image" checksum="eff9598f9f61c1dc78d842f1798c2ab8">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Legacy/3dgreen.pat" checksum="00052731f14a5bc614daece969b368bc">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Stone/amethyst.pat" checksum="ac004a0215ba837c01964226611635c0">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Legacy/blue.pat" checksum="9505c5e2df62d486dfd110eb08d9c022">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Legacy/bluegrid.pat" checksum="3ae3c2b4b499381174ccf8a49b8c205f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Legacy/bluesquares.pat" checksum="6ae618f4f9833a1030fbf58c149c7241">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Legacy/blueweb.pat" checksum="b737ccf05a59c87cd120cc7a017224e7">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Stone/brick.pat" checksum="1f241d71810da697b596525c50054ee7">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Fabric/burlap.pat" checksum="6046ce5617773e56cbc602842cd55124">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Wood/burlwood.pat" checksum="3362a830595ec24c532d25fca6e82841">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Food/choc_swirl.pat" checksum="8f00b531d09279a0f7aa0c3208e26206">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Wood/corkboard.pat" checksum="e0e344790d5425d5afe695b9b67b9a51">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Stone/cracked.pat" checksum="31e59d7417cb4ef2dddd53cf2e136b2d">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Stone/Craters.pat" checksum="6286edd005a095e1d20209bd8c63c130">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Paper/crinklepaper.pat" checksum="b53d9e73d9c352e6cc4c94be921ba4d2">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Stone/ground1.pat" checksum="00f690561e89d65d4b1257f0823b9977">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Water/electric.pat" checksum="c81aa3894d24289215497524598da855">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Legacy/fibers.pat" checksum="2830a6fc5f66e85493efedb4d4c6a84c">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Stone/granite1.pat" checksum="c6220b4ee84951282053d96da7c0df91">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Water/ice.pat" checksum="3248a69c033c15e46356a9ecb996c652">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Food/java.pat" checksum="e66740db4790b501508b84b780a4158b">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Animal/leather.pat" checksum="18fae1b0cb726162fda4c8a850ce6665">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Animal/leopard.pat" checksum="e8518a613d2df2bfa1ce16c6f19380c0">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Sky/lightning.pat" checksum="e53b923bdeccd742866cc836127b53cb">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Plant/leaves.pat" checksum="991d0263a630f7d9379f3181cc5cf4dd">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Stone/marble1.pat" checksum="7cca1d947b97e995440affa1a70e7afb">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Stone/marble2.pat" checksum="b703250ff7bf9a13e0bf1cc7b951e8b4">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Stone/marble3.pat" checksum="188e4483a8ad8d7adad18cb7475f2d4c">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Legacy/nops.pat" checksum="8e398be1aaa1b1ac6392ebb5a8dd5831">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Stone/Moonfoot.pat" checksum="690271aaafee910dfc7b3fe2888c65cd">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Paper/paper.pat" checksum="460447543ed49484ecf388d14d123eb8">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Wood/parque1.pat" checksum="f7d5acd98b59f7830ea3b1afe92d29e6">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Wood/parque2.pat" checksum="0b6e61665a81c96478faa1e4fe0af354">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Wood/parque3.pat" checksum="a99fdcc9bc2814e7d51e05faeb07ec85">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Legacy/pastel.pat" checksum="9173341213573b8c87467733c34078ba">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Wood/pine.pat" checksum="52fc540af9e485c532b96f3b2724ad74">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Wood/wood2.pat" checksum="615a4ea243b717b73605569459aed362">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Stone/pink_marble.pat" checksum="51a9ca43d2baf5243cb79d8a2f4db20f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Water/pool.pat" checksum="b4f48469ab59632276d2b4d9af9dbde8">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Legacy/qube1.pat" checksum="3b96b82e490bea730e17dd752ffb7bc9">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Water/rain.pat" checksum="8babfb520276b39f918aa059ca1594be">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Legacy/recessed.pat" checksum="2743a836d39c547e0d83de27bffb45c1">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Legacy/redcube.pat" checksum="f64dee0efbc2fa301d7b4f3903a68308">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Stone/rock.pat" checksum="93bc028e503811f0908f4de70681b733">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Sky/sky.pat" checksum="78ffe7ed45f4cd89859a653debebc84c">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Stone/slate.pat" checksum="fb10d3127362b61330e77ced0edddd7e">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Legacy/sm_squares.pat" checksum="4ba7d3135d74ec48bca8ee42c9645866">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Sky/starfield.pat" checksum="b21a6bc688e62e02d16150fd5c2a3afe">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Stone/stone33.pat" checksum="002ee5669bd46d09a642853bfd3a543f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Legacy/Stripes2px.pat" checksum="7a5292735452fc15bf789fa3ea064ad2">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Legacy/Stripes1px.pat" checksum="7343d6b31434a2e736de3c5ab5197424">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Stone/terra.pat" checksum="45c52055d10cc53a7a280777e6b76382">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Wood/bark.pat" checksum="3d9dffc8833fe742b90c1a1f2f87e76c">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Wood/walnut.pat" checksum="56b154ad68b400a4b62c62f314e278d4">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Legacy/warning.pat" checksum="bacf4a9e22fb7e97d705739ebf1aa205">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Wood/wood5.pat" checksum="9a3b13cfc2d4a3b18bd7754506fe9ac6">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Wood/wood3.pat" checksum="08109cffa79e14773e39e2390af5bc40">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Wood/wood4.pat" checksum="2040255fdf70572e7d79395a7b191dd6">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Wood/wood1.pat" checksum="0c055f250ddbccc1b32d05f8c0ad7012">
+  </resource>
+
+  <resource identifier="gimp-gradient-custom" checksum="4a878c6cfae0b0e03c0834723daadf92">
+  </resource>
+
+  <resource identifier="gimp-gradient-fg-bg-hsv-cw" checksum="86589f70c8a7777c6e2d1d14b99e3759">
+  </resource>
+
+  <resource identifier="gimp-gradient-fg-bg-hsv-ccw" checksum="65aacbbd72d99ff20ca1bd310f0a21a5">
+  </resource>
+
+  <resource identifier="gimp-gradient-fg-bg-rgb" checksum="4a878c6cfae0b0e03c0834723daadf92">
+  </resource>
+
+  <resource identifier="gimp-gradient-fg-bg-rgb-hardedge" checksum="f3a21fae99695a8feac84cee0ddd716a">
+  </resource>
+
+  <resource identifier="gimp-gradient-fg-transparent" checksum="1491f74caf057a39c8193470da2d2a29">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Abstract_1.ggr" checksum="edaa7d1fc882ab813b75b49ee9272913">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Abstract_2.ggr" checksum="3e6332a87dc9021be25a01ea217d12f0">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Abstract_3.ggr" checksum="edef536ca9974a1fee7bc280c4fa9158">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Aneurism.ggr" checksum="10d0afd25892733e4c8a71e7714c0a3c">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Blinds.ggr" checksum="672688a7f97c746e27b995645d893f81">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Blue_Green.ggr" checksum="ad7afdd77e95fb0cbc7b68627715aa13">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Browns.ggr" checksum="d24a91392f3b5c5e34dedc8d1fc6bfa0">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Brushed_Aluminium.ggr" checksum="8995cf0de6e9f5082a4bc879dc77ebd0">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Burning_Paper.ggr" checksum="5aaed0c7692abe7cbfb75744b7967828">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Burning_Transparency.ggr" checksum="ab6a58127b01c77ea378b97585d2d3cb">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Caribbean_Blues.ggr" checksum="899e32a0cf94010dff9e1f93579f4292">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/CD.ggr" checksum="aa4627507fb28c79bb1d864f2ae3eeaa">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/CD_Half.ggr" checksum="6f70875e41cc69d68b7a0e7d9d5652bf">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Coffee.ggr" checksum="a3407a154e1b875fe1858b57279db00f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Cold_Steel.ggr" checksum="656bc3893f6e7bbbaa9be0ee3a4a7c9f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Cold_Steel_2.ggr" checksum="b3b5c2560412ea9316116320f112ad9a">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Crown_molding.ggr" checksum="e7fe6c14bf776c1564601bfc024d066e">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Dark_1.ggr" checksum="57d6882650122320fe4a212c59de06a2">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Deep_Sea.ggr" checksum="35b112cb987f0429da4350512b5db0fa">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Default.ggr" checksum="ddc8841f60246138068a49dc22875804">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Glow_Angular_1.ggr" checksum="4775a8280fbceeb59cf3859e084c28a1">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Glow_Radial_1.ggr" checksum="e8c3d4029f64c368baa3ac8cd7bf8146">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Glow_Radial_2.ggr" checksum="a557cd5278add08e372475d3d99f3e39">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Glow_Radial_3.ggr" checksum="d86591dec258e8fdbb28732de345495c">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Glow_Radial_4.ggr" checksum="f2eefd542fe04bd56e7218842684aee7">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Radial_101.ggr" checksum="c7d51a864108ab38c58737a3f5d8284a">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Radial_102.ggr" checksum="7763a8e71fac97f6cb07a3cf6c64ecc2">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Radial_103.ggr" checksum="8f23721fa4910404f217b40d51085b60">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Rays_Radial_1.ggr" checksum="3bf791c725e2d7f85a0aff0a93ac66d0">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Rays_Radial_2.ggr" checksum="860f6ab9ab1b89fa2d58796e74bdcd77">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Rays_Size_1.ggr" checksum="24a92724aafd292d8d3725efb13141b6">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Sizefac_101.ggr" checksum="25f8ce37bf87e02514c8b23860dc53c8">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Four_bars.ggr" checksum="514b2159057ba680eee275d1048c4d31">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Full_saturation_spectrum_CCW.ggr" checksum="9011005e2f8cd96b67c62502052451bf">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Full_saturation_spectrum_CW.ggr" checksum="173d8c6a0d6569643cc542afb229100f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Golden.ggr" checksum="34dfd5f7d4f5ab094d948d4ceae29d20">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Greens.ggr" checksum="5ebfe1d2748811b766d270fcb8e01250">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Horizon_1.ggr" checksum="8a64cd7cc03774fa5db60196b63ed078">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Horizon_2.ggr" checksum="fad2e75f788e11c33397bea983573904">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Incandescent.ggr" checksum="79b1b20641e619ee702f36bf8f15f2df">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Land_1.ggr" checksum="2b31219738304a84f3079973558559d7">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Land_and_Sea.ggr" checksum="870b89e11b32ddabbe66baf3bb44c36a">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Metallic_Something.ggr" checksum="f829f3ca70599ad84228dfb991049e6e">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Nauseating_Headache.ggr" checksum="c37ede154a94fa2c3f5efc3770b82c0d">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Neon_Cyan.ggr" checksum="2054a504a44d4c418d83a102eeee80ce">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Neon_Green.ggr" checksum="877576a7cfb92930f47e1c7d5ac405c1">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Neon_Yellow.ggr" checksum="94b17fbb263aeef75dee98a28675f81e">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Pastel_Rainbow.ggr" checksum="b981aa364dcf5f78c3f46e4bc6b83866">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Pastels.ggr" checksum="23adc56dc00bd4ebf7f70ed1ed9cd539">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Purples.ggr" checksum="2bd5415782982a935493fa803f195df4">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Radial_Eyeball_Blue.ggr" checksum="04a114e3016ccc4f50bed7ed449aba98">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Radial_Eyeball_Brown.ggr" checksum="a2c47e5a3971db798c478931271769bf">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Radial_Eyeball_Green.ggr" checksum="64e7005a98fc4cd5e7b3a09026a99976">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Radial_Glow_1.ggr" checksum="46b460d2125043e52fe69ef2a5e38cf8">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Radial_Rainbow_Hoop.ggr" checksum="db1c3eae2bf94a0c8558cd525dcb0074">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Rounded_edge.ggr" checksum="ab62d43581cfbaa9a31286e4197f5acc">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Shadows_1.ggr" checksum="8e67174c5e65cb36187087c10dae4f05">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Shadows_2.ggr" checksum="b810d88b1460235d91b78c3bafdf4706">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Shadows_3.ggr" checksum="cbed6bf71e079f00d2d38e7d103c118e">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Skyline.ggr" checksum="c84395a0afbee5a141bb99f949de277e">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Skyline_polluted.ggr" checksum="7d2722640649ec4574bfa5f943842d88">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Square_Wood_Frame.ggr" checksum="57c49346591e4919910c05e662656936">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Sunrise.ggr" checksum="346584511d4125dc8b6ca89db2915755">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Three_bars_sin.ggr" checksum="43fad05fbc9a509c6ac81e7133a182c0">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Tropical_Colors.ggr" checksum="1931abcf7e88967e8350ed3523b2e6ef">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Tube_Red.ggr" checksum="0d9bcc63aed51e02f133df0446b8fa7d">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Wood_1.ggr" checksum="5cacfc0d19e98c156eb4b726ac05efa0">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Wood_2.ggr" checksum="4f0609c7376dd30634170a8e0dbd2499">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Yellow_Contrast.ggr" checksum="81e37626d2b0c9556bb4bbafd80a905f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Yellow_Orange.ggr" checksum="428584726006e23e260baa2a7d79f295">
+  </resource>
+
+  <resource identifier="gimp-palette-color-history" checksum="5c6ca2f7cda28cf220994a9d5bf1f897">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Bears.gpl" checksum="258096aed894d844833b9c4bd9247735">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Bgold.gpl" checksum="e5d44d5022d095aecc0d9e09fdb0fc39">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Blues.gpl" checksum="119d624a00a373ab9184c6fc89ce7cee">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Borders.gpl" checksum="5336f639548542eb3501b83ca904ae51">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Browns_And_Yellows.gpl" checksum="d642210b147ec6b2b3f7d4d00bce6448">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Caramel.gpl" checksum="6c57928098b25b9ef926f20cf407842f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Cascade.gpl" checksum="cb89cd171a8eb22daefd2b38013220e3">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/China.gpl" checksum="590fd259fa7f6cf77965f463cfc937f2">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Coldfire.gpl" checksum="b06164a047da2ba18fce9f3c17a22346">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Cool_Colors.gpl" checksum="1f882d903ca41b4d0332ef48e3a2e101">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Cranes.gpl" checksum="9bb4a250dff0960f166086bd04ed0ed1">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Dark_pastels.gpl" checksum="ea9add57eda5d96e31b17ef4551b25f3">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Default.gpl" checksum="b8d8754cf636809b474b501e4c540788">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Ega.gpl" checksum="15e6bd7f8f8fe9d083b0c4a35325daeb">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Firecode.gpl" checksum="634cba24bf4d8b5fc567fe35a698774b">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Gold.gpl" checksum="7101eafe4f976436db8eb6884a485d90">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Grayblue.gpl" checksum="70fe50c4ad26cd249303ad88f2378020">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Grays.gpl" checksum="fcf5e6f9da0fbc46bac07d34741fd648">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/GrayViolet.gpl" checksum="6bfbb3fa888e858983a6f665fbf51701">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Greens.gpl" checksum="4e1af3b711e8c32d37fff9c193b49ec1">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Hilite.gpl" checksum="365d980b11460444faf66f911380c71e">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Khaki.gpl" checksum="30935234ffabd4e3cf4bfdfce72bc093">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Lights.gpl" checksum="3483aee51ec01db06b41463903da53f9">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Muted.gpl" checksum="24bc023216795f2eb722546696d3082d">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Named_Colors.gpl" checksum="9ab88f7333eb4d71a2adb8af16053d68">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/News3.gpl" checksum="aa5bc03b87f2ab3bddb68b8871c33f1c">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Op2.gpl" checksum="b76997f507f9d2a29ab04dc739b5b729">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/openSUSE.gpl" checksum="d59a8632dbb37b8fb4f4772a6dae5d19">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Paintjet.gpl" checksum="04c32a213dca8def9d85b151069fd167">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Pastels.gpl" checksum="71ad975d63d876cc18113228324ba9d1">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Plasma.gpl" checksum="8cdb0ce2513b2126b8ffba1a0dbd4db8">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Reds.gpl" checksum="6488da23f77740868df5053d8ba5048a">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Reds_And_Purples.gpl" checksum="c0bc2a7991d9c65ea9d19f9c5c47e8b1">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Royal.gpl" checksum="542785afcdfdcea65f459fa5f83b159a">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Tango.gpl" checksum="0c31eccdd183d0ae24778f1b1e527018">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Topographic.gpl" checksum="233c0ba3ca7481c0021834170b735b22">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Visibone.gpl" checksum="83236d5917dddacdc89d228e503db053">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Visibone_2.gpl" checksum="a6ecc8ab9898c86dc03eb58ab6dcb3b9">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Volcano.gpl" checksum="d3cd685ced512e9f57ff63179726cb3d">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Warm_Colors.gpl" checksum="b98a88f2fc935b3dc95199392ac50196">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Web.gpl" checksum="b7dc5bc715fe9c5ac2bcc86c63f6cdf8">
+  </resource>
+
+  <resource identifier="Adobe Courier" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Courier Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Courier Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Courier Medium Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Helvetica" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Helvetica Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Helvetica Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Helvetica Medium Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe New Century Schoolbook" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe New Century Schoolbook Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe New Century Schoolbook Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe New Century Schoolbook Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Times" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Times Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Times Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Times Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Utopia" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Utopia Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Utopia Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Utopia Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="AMS Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="AMS Mathematical Symbol Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="AMS Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="AMS Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL KaitiM GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL Mingti2L Big5 Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="AR PL SungtiL GB Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="Arabic Newspaper" checksum="(null)">
+  </resource>
+
+  <resource identifier="arrow" checksum="(null)">
+  </resource>
+
+  <resource identifier="ARSS" checksum="(null)">
+  </resource>
+
+  <resource identifier="ARSS" checksum="(null)">
+  </resource>
+
+  <resource identifier="ARSS Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="ARSS Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="ARTM" checksum="(null)">
+  </resource>
+
+  <resource identifier="ARTM" checksum="(null)">
+  </resource>
+
+  <resource identifier="ARTM" checksum="(null)">
+  </resource>
+
+  <resource identifier="ARTM Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="ARTM Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="ARTM Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="AvantGarde LT Medium, Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Baekmuk Batang" checksum="(null)">
+  </resource>
+
+  <resource identifier="Baekmuk Dotum" checksum="(null)">
+  </resource>
+
+  <resource identifier="Baekmuk Gulim" checksum="(null)">
+  </resource>
+
+  <resource identifier="Baekmuk Headline" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bandal Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bangwool Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bera Sans" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bera Sans Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bera Sans Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bera Sans Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bera Sans Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bera Sans Mono Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bera Sans Mono Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bera Sans Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bera Serif" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bera Serif Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="bguq10t04" checksum="(null)">
+  </resource>
+
+  <resource identifier="bguq10t05" checksum="(null)">
+  </resource>
+
+  <resource identifier="bguq10t06" checksum="(null)">
+  </resource>
+
+  <resource identifier="bguq10t07" checksum="(null)">
+  </resource>
+
+  <resource identifier="bguq10t08" checksum="(null)">
+  </resource>
+
+  <resource identifier="bguq10t09" checksum="(null)">
+  </resource>
+
+  <resource identifier="bguq10t10" checksum="(null)">
+  </resource>
+
+  <resource identifier="bguq10t11" checksum="(null)">
+  </resource>
+
+  <resource identifier="bguq10t12" checksum="(null)">
+  </resource>
+
+  <resource identifier="B&amp;H Lucida Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="B&amp;H Lucida Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="B&amp;H Lucida Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="B&amp;H Lucida Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="B&amp;H LucidaBright" checksum="(null)">
+  </resource>
+
+  <resource identifier="B&amp;H LucidaBright Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="B&amp;H LucidaTypewriter Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="B&amp;H LucidaTypewriter Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bitstream Charter" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bitstream Charter Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bitstream Charter Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bitstream Charter Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bitstream Charter Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bitstream Terminal" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bitstream Terminal Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Caladea" checksum="(null)">
+  </resource>
+
+  <resource identifier="Caladea Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Caladea Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Caladea Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cantarell" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cantarell Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cantarell Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cantarell Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Carlito" checksum="(null)">
+  </resource>
+
+  <resource identifier="Carlito Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Carlito Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Carlito Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Century Schoolbook L" checksum="(null)">
+  </resource>
+
+  <resource identifier="Century Schoolbook L Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Century Schoolbook L Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Century Schoolbook L Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Century Schoolbook L Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Century Schoolbook L Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bold Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bold Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bold Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bold Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bold Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bold Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bold Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bright Bold Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bright Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bright Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bright Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bright Medium Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bright Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Bright Semi-Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Concrete Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Concrete Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Concrete Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Concrete Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Computer Modern Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="ContextNavigation Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Courier" checksum="(null)">
+  </resource>
+
+  <resource identifier="Courier 10 Pitch" checksum="(null)">
+  </resource>
+
+  <resource identifier="Courier 10 Pitch Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Courier 10 Pitch Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Courier 10 Pitch Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Courier Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Courier Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Courier Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="csb10" checksum="(null)">
+  </resource>
+
+  <resource identifier="csbx10" checksum="(null)">
+  </resource>
+
+  <resource identifier="csbx12" checksum="(null)">
+  </resource>
+
+  <resource identifier="csbx5" checksum="(null)">
+  </resource>
+
+  <resource identifier="csbx6" checksum="(null)">
+  </resource>
+
+  <resource identifier="csbx7" checksum="(null)">
+  </resource>
+
+  <resource identifier="csbx8" checksum="(null)">
+  </resource>
+
+  <resource identifier="csbx9" checksum="(null)">
+  </resource>
+
+  <resource identifier="csbxsl10" checksum="(null)">
+  </resource>
+
+  <resource identifier="csbxti10" checksum="(null)">
+  </resource>
+
+  <resource identifier="cscsc10" checksum="(null)">
+  </resource>
+
+  <resource identifier="csdunh10" checksum="(null)">
+  </resource>
+
+  <resource identifier="csff10" checksum="(null)">
+  </resource>
+
+  <resource identifier="csfi10" checksum="(null)">
+  </resource>
+
+  <resource identifier="csfib8" checksum="(null)">
+  </resource>
+
+  <resource identifier="csinch" checksum="(null)">
+  </resource>
+
+  <resource identifier="csitt10" checksum="(null)">
+  </resource>
+
+  <resource identifier="csr10" checksum="(null)">
+  </resource>
+
+  <resource identifier="csr12" checksum="(null)">
+  </resource>
+
+  <resource identifier="csr17" checksum="(null)">
+  </resource>
+
+  <resource identifier="csr5" checksum="(null)">
+  </resource>
+
+  <resource identifier="csr6" checksum="(null)">
+  </resource>
+
+  <resource identifier="csr7" checksum="(null)">
+  </resource>
+
+  <resource identifier="csr8" checksum="(null)">
+  </resource>
+
+  <resource identifier="csr9" checksum="(null)">
+  </resource>
+
+  <resource identifier="cssl10" checksum="(null)">
+  </resource>
+
+  <resource identifier="cssl12" checksum="(null)">
+  </resource>
+
+  <resource identifier="cssl8" checksum="(null)">
+  </resource>
+
+  <resource identifier="cssl9" checksum="(null)">
+  </resource>
+
+  <resource identifier="cssltt10" checksum="(null)">
+  </resource>
+
+  <resource identifier="csss10" checksum="(null)">
+  </resource>
+
+  <resource identifier="csss12" checksum="(null)">
+  </resource>
+
+  <resource identifier="csss17" checksum="(null)">
+  </resource>
+
+  <resource identifier="csss8" checksum="(null)">
+  </resource>
+
+  <resource identifier="csss9" checksum="(null)">
+  </resource>
+
+  <resource identifier="csssbx10" checksum="(null)">
+  </resource>
+
+  <resource identifier="csssdc10" checksum="(null)">
+  </resource>
+
+  <resource identifier="csssi10" checksum="(null)">
+  </resource>
+
+  <resource identifier="csssi12" checksum="(null)">
+  </resource>
+
+  <resource identifier="csssi17" checksum="(null)">
+  </resource>
+
+  <resource identifier="csssi8" checksum="(null)">
+  </resource>
+
+  <resource identifier="csssi9" checksum="(null)">
+  </resource>
+
+  <resource identifier="csssq8" checksum="(null)">
+  </resource>
+
+  <resource identifier="csssqi8" checksum="(null)">
+  </resource>
+
+  <resource identifier="cstcsc10" checksum="(null)">
+  </resource>
+
+  <resource identifier="csti10" checksum="(null)">
+  </resource>
+
+  <resource identifier="csti12" checksum="(null)">
+  </resource>
+
+  <resource identifier="csti7" checksum="(null)">
+  </resource>
+
+  <resource identifier="csti8" checksum="(null)">
+  </resource>
+
+  <resource identifier="csti9" checksum="(null)">
+  </resource>
+
+  <resource identifier="cstt10" checksum="(null)">
+  </resource>
+
+  <resource identifier="cstt12" checksum="(null)">
+  </resource>
+
+  <resource identifier="cstt8" checksum="(null)">
+  </resource>
+
+  <resource identifier="cstt9" checksum="(null)">
+  </resource>
+
+  <resource identifier="csu10" checksum="(null)">
+  </resource>
+
+  <resource identifier="csvtt10" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cursor Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="cursor.pcf" checksum="(null)">
+  </resource>
+
+  <resource identifier="DEC Terminal" checksum="(null)">
+  </resource>
+
+  <resource identifier="DEC Terminal Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="deccurs.pcf" checksum="(null)">
+  </resource>
+
+  <resource identifier="decsess.pcf" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Math TeX Gyre" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Bold Oblique Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Mono Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Mono Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Oblique Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Serif" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Serif Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Serif Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Serif Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Serif Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Serif Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Serif Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Serif Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dg" checksum="(null)">
+  </resource>
+
+  <resource identifier="dgjhw Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Dingbats" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="dm" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Arabic Kufi" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Arabic Kufi Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Arabic Naskh" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Arabic Naskh Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Naskh Shift Alt" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Sans" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Sans Armenian" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Sans Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Sans Devanagari" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Sans Ethiopic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Sans Ethiopic Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Sans Fallback" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Sans Georgian" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Sans Hebrew" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Sans Hebrew Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Sans Japanese" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Sans Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Sans Tamil" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Sans Tamil Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Sans Thai" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Serif" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Serif Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Serif Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Serif Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Dummy Space" checksum="(null)">
+  </resource>
+
+  <resource identifier="East Syriac Adiabene" checksum="(null)">
+  </resource>
+
+  <resource identifier="East Syriac Ctesiphon" checksum="(null)">
+  </resource>
+
+  <resource identifier="Efont Biwidth" checksum="(null)">
+  </resource>
+
+  <resource identifier="Efont Biwidth Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Efont Biwidth Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Efont Biwidth Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Efont Fixed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Efont Fixed Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Efont Fixed Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Efont Fixed Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Efont Fixed Wide" checksum="(null)">
+  </resource>
+
+  <resource identifier="Efont Fixed Wide Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Efont Fixed Wide Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Efont Fixed Wide Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Emmentaler-11" checksum="(null)">
+  </resource>
+
+  <resource identifier="Emmentaler-13" checksum="(null)">
+  </resource>
+
+  <resource identifier="Emmentaler-14" checksum="(null)">
+  </resource>
+
+  <resource identifier="Emmentaler-16" checksum="(null)">
+  </resource>
+
+  <resource identifier="Emmentaler-18" checksum="(null)">
+  </resource>
+
+  <resource identifier="Emmentaler-20" checksum="(null)">
+  </resource>
+
+  <resource identifier="Emmentaler-23" checksum="(null)">
+  </resource>
+
+  <resource identifier="Emmentaler-26" checksum="(null)">
+  </resource>
+
+  <resource identifier="Emmentaler-Brace" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo Antioch" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo Edessa" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo Midyat" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo Nisibin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo Nisibin Outline" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo Quenneshrin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo Talada" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo TurAbdin" checksum="(null)">
+  </resource>
+
+  <resource identifier="ETL Fixed" checksum="(null)">
+  </resource>
+
+  <resource identifier="ETL fixed Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="ETL fixed Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="ETL fixed Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Euler" checksum="(null)">
+  </resource>
+
+  <resource identifier="Euler Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Euler Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Eunjin Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Eunjin Nakseo Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="FontAwesome" checksum="(null)">
+  </resource>
+
+  <resource identifier="FreeEuro Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Garuda" checksum="(null)">
+  </resource>
+
+  <resource identifier="Garuda Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Garuda Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Garuda Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="GE Inspira" checksum="(null)">
+  </resource>
+
+  <resource identifier="GNU Unifont Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Goha-Tibeb Zemen Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Guseul Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hans" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hans-sh" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS Battambang" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS Bokor" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS Content" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS Fasthand" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS Freehand" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS Metal Chrieng" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS Muol" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS Muol Light," checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS Muol Pali" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS Siemreap" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS System" checksum="(null)">
+  </resource>
+
+  <resource identifier="Kinnari" checksum="(null)">
+  </resource>
+
+  <resource identifier="Kinnari Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Kinnari Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Kinnari Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Kinnari Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Kinnari Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Laksaman" checksum="(null)">
+  </resource>
+
+  <resource identifier="Laksaman Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Laksaman Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Laksaman Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LaTeX Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="LaTeX Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LaTeX Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="LaTeX Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Math" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Mono Caps" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Mono Caps Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Mono Light," checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Mono Light, Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Mono Light, Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Mono Light Cond" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Mono Light Cond Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Mono Light, Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Mono Prop" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Mono Prop Light," checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Mono Prop Light, Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Mono Prop Light, Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Mono Prop Light, Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Mono Prop Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Mono Slanted" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman," checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman," checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman," checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman," checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman," checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman," checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman," checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman," checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman, Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman, Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman, Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman, Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman, Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman, Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman, Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman, Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman Caps" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman Caps Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman Demi Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman Demi Semi-Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman Dunhill" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman Dunhill Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman, Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman, Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman, Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman, Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman, Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman Slanted" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman Slanted" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman Slanted" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman Slanted" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman Slanted" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman Slanted Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Roman Unslanted" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Sans" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Sans" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Sans" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Sans" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Sans" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Sans Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Sans Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Sans Demi Cond Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Sans Demi Cond Semi-Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Sans Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Sans Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Sans Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Sans Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Sans Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Sans Quotation" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Sans Quotation Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Sans Quotation Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Latin Modern Sans Quotation Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Sans" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Sans Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Sans Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Sans Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Sans Narrow Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Sans Narrow Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Sans Narrow Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Sans Narrow Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Serif" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Serif Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Serif Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Liberation Serif Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMathExtension10" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMathItalic10 Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMathItalic10 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMathItalic12 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMathItalic5 Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMathItalic5 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMathItalic6 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMathItalic7 Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMathItalic7 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMathItalic8 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMathItalic9 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMathSymbols10 Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMathSymbols10 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMathSymbols5 Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMathSymbols5 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMathSymbols6 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMathSymbols7 Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMathSymbols7 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMathSymbols8 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMathSymbols9 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMono10" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMono10 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMono12" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMono8" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMono9" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMonoCaps10" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMonoCaps10 Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMonoLt10 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMonoLt10 Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMonoLt10 Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMonoLt10 Light Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMonoLtCond10 Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMonoLtCond10 Light Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMonoProp10" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMonoProp10 Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMonoPropLt10 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMonoPropLt10 Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMonoPropLt10 Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMonoPropLt10 Light Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMMonoSlant10 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRoman10" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRoman10 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRoman10 Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRoman10 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRoman12" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRoman12 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRoman12 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRoman17" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRoman5" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRoman5 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRoman6" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRoman6 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRoman7" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRoman7 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRoman7 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRoman8" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRoman8 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRoman8 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRoman9" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRoman9 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRoman9 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRomanCaps10" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRomanCaps10 Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRomanDemi10 Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRomanDemi10 Semi-Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRomanDunh10" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRomanDunh10 Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRomanSlant10 Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRomanSlant10 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRomanSlant12 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRomanSlant17 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRomanSlant8 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRomanSlant9 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMRomanUnsl10" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMSans10" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMSans10 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMSans10 Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMSans10 Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMSans12" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMSans12 Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMSans17" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMSans17 Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMSans8" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMSans8 Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMSans9" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMSans9 Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMSansDemiCond10 Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMSansDemiCond10 Semi-Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMSansQuot8" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMSansQuot8 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMSansQuot8 Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="LMSansQuot8 Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="LOGO10 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="LOGO8 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="LOGO9 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="LOGOBF10 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="LOGOD10 Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="LOGOSL10 Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LOGOSL8 Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LOGOSL9 Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Loma" checksum="(null)">
+  </resource>
+
+  <resource identifier="Loma Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Loma Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Loma Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Luxi Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Luxi Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Luxi Mono Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Luxi Mono Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Luxi Sans" checksum="(null)">
+  </resource>
+
+  <resource identifier="Luxi Sans Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Luxi Sans Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Luxi Sans Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Luxi Serif" checksum="(null)">
+  </resource>
+
+  <resource identifier="Luxi Serif Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Luxi Serif Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Luxi Serif Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="manfnt Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="MarVoSym" checksum="(null)">
+  </resource>
+
+  <resource identifier="MarVoSym with TeX support" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mc2" checksum="(null)">
+  </resource>
+
+  <resource identifier="micro.pcf" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed Medium Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed Medium Oblique Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed Wide Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed Wide Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monospace" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monospace Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monospace Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monospace Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="mr2" checksum="(null)">
+  </resource>
+
+  <resource identifier="MUTT ClearlyU Alternate Glyphs Wide" checksum="(null)">
+  </resource>
+
+  <resource identifier="MUTT ClearlyU PUA" checksum="(null)">
+  </resource>
+
+  <resource identifier="MUTT ClearlyU Wide" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nimbus Mono L" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nimbus Mono L Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nimbus Mono L Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nimbus Mono L Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nimbus Roman No9 L" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nimbus Roman No9 L Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nimbus Roman No9 L Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nimbus Roman No9 L Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nimbus Roman No9 L Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nimbus Roman No9 L Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nimbus Sans L" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nimbus Sans L Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nimbus Sans L Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nimbus Sans L Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nimbus Sans L Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nimbus Sans L Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nimbus Sans L Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nimbus Sans L Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Norasi" checksum="(null)">
+  </resource>
+
+  <resource identifier="Norasi Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Norasi Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Norasi Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Norasi Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Norasi Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Color Emoji" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Heavy Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Heavy Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Heavy Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Heavy Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Medium Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Medium Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Medium Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Semi-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Semi-Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Semi-Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Semi-Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Semi-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Thin Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Thin Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Thin Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Thin Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Thin Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Condensed, Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PazoMath" checksum="(null)">
+  </resource>
+
+  <resource identifier="PazoMath Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="PazoMath Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PazoMath Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PazoMathBlackboardBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Philokalia" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLCaps10" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLDunhill10" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLFibonacci8" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLFunny10 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLFunny10 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLInch" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLMathExtension10" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLMathExtension9" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLMathItalic10 Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLMathItalic10 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLMathItalic12 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLMathItalic5 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLMathItalic6 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLMathItalic7 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLMathItalic8 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLMathItalic9 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLMathSymbols10 Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLMathSymbols10 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLMathSymbols5 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLMathSymbols6 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLMathSymbols7 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLMathSymbols8 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLMathSymbols9 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRoman10" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRoman10 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRoman10 Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRoman10 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRoman12" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRoman12 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRoman12 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRoman17" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRoman5" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRoman5 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRoman6" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRoman6 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRoman7" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRoman7 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRoman7 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRoman8" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRoman8 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRoman8 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRoman9" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRoman9 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRoman9 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLRomanDemi10 Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLSans10" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLSans10 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLSans10 Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLSans10 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLSans12" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLSans12 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLSans17" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLSans17 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLSans8" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLSans8 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLSans9" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLSans9 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLSansDemiCond10 Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLSansQuotation8" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLSansQuotation8 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLSlanted10 Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLSlanted10 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLSlanted12 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLSlanted8 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLSlanted9 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLTeXExtended10" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLTeXExtended8" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLTeXExtended9" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLTypewriter10" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLTypewriter10 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLTypewriter12" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLTypewriter8" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLTypewriter9" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLTypewriterCaps10" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLTypewriterSlanted10 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLTypewriterVarWd10" checksum="(null)">
+  </resource>
+
+  <resource identifier="PLUnslanted10" checksum="(null)">
+  </resource>
+
+  <resource identifier="Purisa" checksum="(null)">
+  </resource>
+
+  <resource identifier="Purisa Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Purisa Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Purisa Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Pxbex Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Pxbexa Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Pxbmia Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Pxbsy Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Pxbsya Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Pxbsyb Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Pxbsyc Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Pxex Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Pxexa Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Pxmia Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Pxsy Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Pxsya Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Pxsyb Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Pxsyc Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Condensed," checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Condensed, Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Condensed, Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Condensed, Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Condensed, Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Condensed, Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Slab" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Slab Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Slab Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Slab weight=250" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto weight=250" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto weight=250 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rpcxb Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rpcxbi Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rpcxi Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rpcxr Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rpxb Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rpxbi Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rpxbmi Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rpxbsc Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rpxi Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rpxmi Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rpxr Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rpxsc Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="rsfs10 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="rsfs5 Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="rsfs7 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="rtcxb Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="rtcxbi Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="rtcxbss Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="rtcxi Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="rtcxr Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="rtcxss Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="rtxb Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="rtxbi Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="rtxbmi Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="rtxbsc Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="rtxbss Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="rtxbsssc Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="rtxi Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="rtxmi Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="rtxr Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="rtxsc Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="rtxss Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="rtxsssc Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Sans-serif" checksum="(null)">
+  </resource>
+
+  <resource identifier="Sans-serif Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Sans-serif Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Sans-serif Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Sawasdee" checksum="(null)">
+  </resource>
+
+  <resource identifier="Sawasdee Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Sawasdee Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Sawasdee Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Schumacher Clean" checksum="(null)">
+  </resource>
+
+  <resource identifier="Schumacher Clean Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Schumacher Clean Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Schumacher Clean Wide" checksum="(null)">
+  </resource>
+
+  <resource identifier="Schumacher Clean Wide Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Schumacher Clean Wide Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serif" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serif Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serif Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serif Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Batnan" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Batnan Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Jerusalem" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Jerusalem Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Jerusalem Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Jerusalem Outline" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Kharput" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Malankara" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Mardin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Mardin Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Urhoy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Urhoy Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Sony Fixed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Sans Pro" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Sans Pro Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Sans Pro Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Sans Pro Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Sans Pro Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Sans Pro Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Sans Pro Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Sans Pro Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Sans Pro Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Sans Pro Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Sans Pro Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Sans Pro Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Serif Pro" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Serif Pro Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Serif Pro Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Serif Pro Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Serif Pro Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Serif Pro Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Standard Symbols L" checksum="(null)">
+  </resource>
+
+  <resource identifier="STIXGeneral" checksum="(null)">
+  </resource>
+
+  <resource identifier="STIXGeneral Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="STIXGeneral Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="STIXGeneral Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="stmary10" checksum="(null)">
+  </resource>
+
+  <resource identifier="stmary5" checksum="(null)">
+  </resource>
+
+  <resource identifier="stmary6 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="stmary7" checksum="(null)">
+  </resource>
+
+  <resource identifier="stmary8 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="stmary9 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="t1xbtt Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="t1xbttsc Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="t1xtt Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="t1xttsc Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="tabvar Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="taipei16.pcf" checksum="(null)">
+  </resource>
+
+  <resource identifier="taipei24.pcf" checksum="(null)">
+  </resource>
+
+  <resource identifier="tcxbtt Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="tcxtt Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX feybl10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX feybo10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX feybr10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX feyml10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX feymo10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX feymr10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Adventor" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Adventor Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Adventor Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Adventor Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Bonum" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Bonum Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Bonum Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Bonum Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Bonum Math" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Chorus Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Cursor" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Cursor Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Cursor Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Cursor Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre DejaVu Math" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Heros" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Heros Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Heros Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Heros Cn Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Heros Cn Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Heros Cn Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Heros Cn Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Heros Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Pagella" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Pagella Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Pagella Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Pagella Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Pagella Math" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Schola" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Schola Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Schola Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Schola Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Schola Math" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Termes" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Termes Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Termes Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Termes Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Gyre Termes Math" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Palladio L Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Palladio L Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Palladio L Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX Palladio L Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040feybl10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040feybo10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040feybr10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040feyml10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040feymo10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040feymr10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040pccsc10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040pcmi10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040pcr10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040pcr5" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040pcr6" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040pcr7" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040pcr8" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040pcr9" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040pcsl10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040pcslc9" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040pcti10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipa10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipa12" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipa17" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipa8" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipa9" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipab10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipabs10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipabx10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipabx12" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipabx8" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipabx9" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipasb10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipasi10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipasl10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipasl12" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipasl8" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipasl9" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipass10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipass12" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipass17" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipass8" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipass9" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipats10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipatt10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipatt12" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipatt8" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipatt9" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipx10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipx12" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipx17" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipx8" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipx9" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxb10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxbs10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxbx10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxbx12" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxbx8" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxbx9" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxsb10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxsi10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxsl10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxsl12" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxsl8" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxsl9" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxss10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxss12" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxss17" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxss8" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxss9" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxts10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxtt10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxtt12" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxtt8" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040tipxtt9" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040vect10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040vect5" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040vect6" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040vect7" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040vect8" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040vect9" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040xipa10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040xipab10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040xipabs10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040xipasb10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040xipasi10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040xipasl10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040xipass10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040xipx10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040xipxb10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040xipxbs10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040xipxsb10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040xipxsi10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040xipxsl10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeX\040xipxss10" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreAdventor" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreAdventor Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreAdventor Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreAdventor Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreBonum" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreBonum Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreBonum Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreBonum Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreChorus Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreCursor" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreCursor Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreCursor Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreCursor Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreHeros" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreHeros Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreHeros Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreHeros Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreHerosCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreHerosCondensed Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreHerosCondensed Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreHerosCondensed Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyrePagella" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyrePagella Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyrePagella Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyrePagella Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreSchola" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreSchola Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreSchola Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreSchola Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreTermes" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreTermes Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreTermes Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TeXGyreTermes Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Tlwg Typist" checksum="(null)">
+  </resource>
+
+  <resource identifier="Tlwg Typist Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Tlwg Typist Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Tlwg Typist Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="TlwgTypewriter" checksum="(null)">
+  </resource>
+
+  <resource identifier="TlwgTypewriter Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="TlwgTypewriter Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="TlwgTypewriter Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="txbex Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="txbexa Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="txbmia Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="txbsy Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="txbsya Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="txbsyb Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="txbsyc Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="txbtt Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="txbttsc Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="txex Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="txexa Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="txmia Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="txsy Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="txsya Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="txsyb Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="txsyc Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="txtt Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="txttsc Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ubuntu" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj00 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj01 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj02 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj03 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj04 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj05 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj10 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj11 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj12 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj13 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj14 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj15 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj16 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj17 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj20 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj21 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj22 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj23 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj24 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj25 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj26 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj27 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj28 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj29 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj30 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj31 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj32 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj33 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj34 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj35 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj36 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj37 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umj38 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umpush" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umpush Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umpush Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umpush Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umpush Light Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Umpush Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="URW Bookman L" checksum="(null)">
+  </resource>
+
+  <resource identifier="URW Bookman L Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="URW Bookman L Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="URW Bookman L Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="URW Bookman L Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="URW Chancery L Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="URW Gothic L Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="URW Gothic L Book Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="URW Gothic L Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="URW Gothic L Semi-Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="URW Palladio L Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="URW Palladio L Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="URW Palladio L Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="URW Palladio L Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Utopia" checksum="(null)">
+  </resource>
+
+  <resource identifier="Utopia Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Utopia Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Utopia Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Waree" checksum="(null)">
+  </resource>
+
+  <resource identifier="Waree Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Waree Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Waree Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="wasy10" checksum="(null)">
+  </resource>
+
+  <resource identifier="wasy5 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="wasy6 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="wasy7 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="wasy8 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="wasy9 Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="wasyb10 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Yhcmex Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Yudit" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Crop/16_10.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Crop/16_9.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Crop/3_2-Landscape.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Crop/3_2-Portrait.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Crop/4_3-Landscape.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Crop/4_3-Portrait.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Airbrush.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Airbrush-Color-From-Gradient.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Basic-Knife.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Basic-Round.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Basic-Round-Detail.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Sketch/Blue-Pen.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Bristles.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Selection/Circle-200px.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/FX/Crop-16-9.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/FX/Crop-Composition.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Eraser-Hard.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Sketch/Eraser-Soft.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Selection/Feathered-Selection.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/FX/Fill-Paper.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/FX/FX-Confetti.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/FX/FX-Radial-Softlight.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/FX/Glow-Lights.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Sketch/Ink-Smooth.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Sketch/Ink-Thin.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Noise.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Paintbrush-Color-From-Gradient.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Sketch/Pencil.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Pencil-Color-From-Gradient.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Sketch/Pencil-Soft.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/FX/Smooth-Clone.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Smudge-Rough.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Smudge-Soft.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Soft-Oil.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Splatters.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Crop/Square.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Structure.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Vegetal.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/FX/Vignette.gtp" checksum="(null)">
+  </resource>
+</tags>

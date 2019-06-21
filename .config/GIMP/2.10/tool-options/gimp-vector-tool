@@ -1,0 +1,9 @@
+# GIMP gimp-vector-tool options
+
+(brush "2. Hardness 050")
+(dynamics "Dynamics Off")
+(pattern "Pine")
+(gradient "Kolor pierwszoplanowy na kolor tła (RGB)")
+(palette "Historia kolorów")
+
+# end of gimp-vector-tool options

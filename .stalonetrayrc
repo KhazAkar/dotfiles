@@ -1,0 +1,8 @@
+slot_size 24
+geometry 5x2+1900+2110
+parent_bg true
+window_layer bottom
+skip_taskbar true
+transparent true
+window_strut none
+sticky true

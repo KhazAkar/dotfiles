@@ -1,0 +1,7 @@
+# Aliases
+alias precmd 'set prompt="`powerline-shell --shell tcsh $?`"'
+alias ls ls --color=auto
+# Autoexpand
+set autoexpand
+# Sourcing Tab completion
+source ~/.tcsh-complete
