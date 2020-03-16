@@ -1,5 +1,0 @@
-[Desktop Entry]
-Type=Application
-Terminal=false
-Exec=compton -b -d :0 --backend xr_glx_hybrid --dbus --vsync opengl-swc --glx-no-stencil --dbe
-Name=Compton

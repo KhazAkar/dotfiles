@@ -4,4 +4,4 @@ alias ls ls --color=auto
 # Autoexpand
 set autoexpand
 # Sourcing Tab completion
-source ~/.tcsh-complete
+source ~/.config/tcsh-complete

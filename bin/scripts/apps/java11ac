@@ -1,0 +1,2 @@
+#!/bin/sh
+/usr/lib/jvm/java-11-amazon-corretto/bin/java $1 $2

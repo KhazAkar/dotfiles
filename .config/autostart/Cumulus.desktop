@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Terminal=false
-Categories=Utility;
-Exec=/home/khazakar/bin/Cumulus/Cumulus.sh
-Name=Cumulus
-Icon=/home/khazakar/bin/Cumulus/cumulus.svg

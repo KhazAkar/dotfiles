@@ -1,0 +1,9 @@
+PICTURE=/tmp/i3lock.png
+SCREENSHOT="maim $PICTURE"
+
+SCALE="2.5%"
+RESIZE="4000%"
+$SCREENSHOT
+convert $PICTURE -scale $SCALE -resize $RESIZE $PICTURE
+i3lock -i $PICTURE
+rm $PICTURE

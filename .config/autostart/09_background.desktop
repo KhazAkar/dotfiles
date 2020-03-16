@@ -1,5 +1,0 @@
-[Desktop Entry]
-Type=Application
-Terminal=false
-Exec=feh --bg-scale /home/khazakar/Obrazy/wall.png
-Name=Set background
