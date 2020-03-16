@@ -1,3 +1,6 @@
+# Load git-prompt support
+source ~/.config/bash_git
+
 # Load bash-powerline-shell
 source ~/.config/ps1_prompt
 
