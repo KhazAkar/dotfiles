@@ -1,8 +1,8 @@
 # Load git-prompt support
-source ~/.config/bash_git
+source $HOME/.config/bash_git
 
 # Load bash-powerline-shell
-source ~/.config/ps1_prompt
+source $HOME/.config/ps1_prompt
 
 # Fortune
 if [ -x /usr/bin/fortune ] ; then

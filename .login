@@ -1,1 +1,1 @@
-setenv XDG_CONFIG_HOME /home/khazakar/.config
+setenv XDG_CONFIG_HOME $HOME/.config
