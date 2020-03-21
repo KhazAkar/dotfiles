@@ -1,0 +1,4 @@
+[Desktop Entry]
+Exec=/usr/bin/nm-applet
+Name=NetworkManager Applet
+Type=Application

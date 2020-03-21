@@ -1,0 +1,4 @@
+[Desktop Entry]
+Exec=/usr/bin/picom -CGb --config /home/khazakar/.config/picom/picom.conf
+Name=picom
+Type=Application

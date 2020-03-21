@@ -1,0 +1,4 @@
+[Desktop Entry]
+Exec=/bin/sh /home/khazakar/bin/scripts/apps/tint2.sh
+Name=tint2
+Type=Application

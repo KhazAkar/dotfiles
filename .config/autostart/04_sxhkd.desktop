@@ -1,0 +1,4 @@
+[Desktop Entry]
+Exec=/usr/bin/sxhkd -c /home/khazakar/.config/sxhkd/config
+Name=sxhkd
+Type=Application

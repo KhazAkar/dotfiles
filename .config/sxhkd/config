@@ -1,0 +1,35 @@
+# It's my sxhkd config file, feel free to edit it at yours heart content! :)
+# Control audio
+XF86AudioMute
+    tclsh $HOME/bin/scripts/control/audio.tcl tm
+XF86AudioLowerVolume
+    tclsh $HOME/bin/scripts/control/audio.tcl dec 1
+XF86AudioRaiseVolume
+    tclsh $HOME/bin/scripts/control/audio.tcl inc 1
+# Auto launch browser with best search engine :)
+XF86Search
+    xdg-open https://duckduckgo.com
+# i3lock custom script with background blur
+ctrl + alt + Delete
+    bash $HOME/bin/scripts/apps/i3lock.sh
+# IDEs and text editors
+super + e; {i,m)
+    {$HOME/eclipse/cpp-2019-12/eclipse/eclipse,emacs}
+super + g
+    geany
+# Terminal emulators
+super + t
+    kitty
+# IMs
+super + t
+    $HOME/bin/Telegram/Telegram
+# Web browsers
+super + o
+    opera
+super + f ; {f}
+    {firefox}
+# CADs
+super + k
+    kicad
+super + f ; {c}
+    FreeCAD

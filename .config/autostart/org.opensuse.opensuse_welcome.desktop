@@ -1,0 +1,26 @@
+# I'll get copied to ~/.config/autostart/ to disable the other desktop file that should be copied to /etc/xdg/autostart/
+[Desktop Entry]
+Type=Application
+Name=Welcome
+Exec=/usr/bin/opensuse-welcome
+Hidden=true
+Icon=org.opensuse.opensuse_welcome
+Comment=The openSUSE Welcome utility.
+Categories=Qt;System;Documentation
+GenericName=Welcome Utility
+# Spanish translation
+Name[es]=Bienvenida
+Comment[es]=La utilidad de bienvenida de openSUSE.
+GenericName[es]=Utilidad de bienvenida
+# French translation
+Name[fr]=Bienvenue
+Comment[fr]=Utilitaire de bienvenue
+GenericName[fr]=L'utilitaire de bienvenue d'openSUSE.
+# Polish translation
+Name[pl]=Witaj
+Comment[pl]=Program do powitania
+GenericName[pl]=Program do powitania w openSUSE.
+# Simplified Chinese translation
+Name[zh_CN]=欢迎
+Comment[zh_CN]=openSUSE 欢迎程序。
+GenericName[zh_CN]=欢迎程序

@@ -1,0 +1,4 @@
+[Desktop Entry]
+Exec=/bin/sh /home/khazakar/bin/scripts/screens/home.sh
+Name=Setup Displays
+Type=Application

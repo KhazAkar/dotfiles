@@ -1,0 +1,13 @@
+[Desktop Entry]
+NoDisplay=true
+Version=1.0
+Name=PulseAudio System Tray
+GenericName=
+Comment=An Applet for PulseAudio
+Exec=pasystray
+Icon=pasystray
+StartupNotify=true
+Type=Application
+Categories=AudioVideo;Mixer;
+Keywords=pulseaudio;tray;system tray;applet;volume;
+

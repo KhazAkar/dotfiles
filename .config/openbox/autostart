@@ -1,2 +1,1 @@
-# Add your own autostart apps. Dex can be used to autostart files according to XDG Autostart specification
 dex -a &

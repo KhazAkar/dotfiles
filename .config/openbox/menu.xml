@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openbox_menu>
     <menu id="root-menu" label="OpenBox 3">
+		<menu label "essential :)">
+			<item label="XTerm">
+			<action name="Execute">
+				<command>xterm</command>
+			</action>
+			</item>
+		</menu>
         <menu id="40" label="OpenBox">
             <menu id="client-list-menu"/>
             <item label="Reconfigure after update in config files!"> <action name="Reconfigure"/> </item>
