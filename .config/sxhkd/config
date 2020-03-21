@@ -1,11 +1,19 @@
 # It's my sxhkd config file, feel free to edit it at yours heart content! :)
+# App launcher
+Menu
+    rofi -show combi
 # Control audio
 XF86AudioMute
-    tclsh $HOME/bin/scripts/control/audio.tcl tm
+    tclsh $HOME/bin/scripts/control/audio tm
 XF86AudioLowerVolume
-    tclsh $HOME/bin/scripts/control/audio.tcl dec 1
+    tclsh $HOME/bin/scripts/control/audio dec 1
 XF86AudioRaiseVolume
-    tclsh $HOME/bin/scripts/control/audio.tcl inc 1
+    tclsh $HOME/bin/scripts/control/audio inc 1
+# Control display    
+XF86MonBrightnessUp
+    tclsh $HOME/bin/scripts/control/backlight inc 1
+XF86MonBrightnessDown
+    tclsh $HOME/bin/scripts/control/backlight dec 1
 # Auto launch browser with best search engine :)
 XF86Search
     xdg-open https://duckduckgo.com
@@ -13,7 +21,7 @@ XF86Search
 ctrl + alt + Delete
     bash $HOME/bin/scripts/apps/i3lock.sh
 # IDEs and text editors
-super + e; {i,m)
+super + e; {i,m}
     {$HOME/eclipse/cpp-2019-12/eclipse/eclipse,emacs}
 super + g
     geany
@@ -33,3 +41,4 @@ super + k
     kicad
 super + f ; {c}
     FreeCAD
+# Place for others :)

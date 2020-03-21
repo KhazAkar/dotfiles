@@ -1,0 +1,23 @@
+#!/usr/bin/env tclsh
+set status [catch {exec pamixer --get-mute}]
+
+switch [lindex $argv 0] {
+	"inc" {
+	exec pamixer -i [lindex $argv 1]
+	exec notify-send "Actual volume: " "[exec pamixer --get-volume]%"
+	}
+	"dec" {
+	exec pamixer -d [lindex $argv 1]
+	exec notify-send "Actual volume: " "[exec pamixer --get-volume]%"
+	}
+	"tm" {
+		if {$status == "0"} {
+			exec pamixer -t
+			exec notify-send "Mute status: " "Not muted"
+		}
+		if {$status == "1"} {
+			exec pamixer -t
+			exec notify-send "Mute status: " "Muted"
+		}
+	}
+}

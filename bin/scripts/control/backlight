@@ -1,0 +1,15 @@
+#!/usr/bin/env tclsh
+switch [lindex $argv 0] {	
+	"inc" {
+		exec xbacklight -inc [lindex $argv 1]
+		exec notify-send "Backlight status" "[exec xbacklight -get]%"
+	}
+	"dec" {
+		exec xbacklight -dec [lindex $argv 1]
+		exec notify-send "Backlight status" "[exec xbacklight -get]%"
+	}
+	"set" {
+		exec xbacklight -set [lindex $argv 1]
+		exec notify-send "Backlight status" "[exec xbacklight -get]%"
+	}
+}

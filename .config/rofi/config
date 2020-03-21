@@ -1,6 +1,16 @@
-rofi.theme: /usr/share/rofi/themes/Monokai.rasi
-rofi.combi-modi: drun,run
-rofi.modi: combi
-rofi.sort: true
-rofi.sorting-method: normal
-rofi.combi-hide-mode-prefix: true
+rofi.theme: /usr/share/rofi/themes/android_notification.rasi
+! "Enabled modi"
+rofi.modi:                           run,drun,ssh,calc,combi
+! "Enable auto select mode"
+rofi.auto-select:                    true
+! "Parse hosts file for ssh mode" 
+rofi.parse-hosts:                    true
+! "Parse known_hosts file for ssh mode" 
+rofi.parse-known-hosts:              true
+! "Set the modi to combine in combi mode" 
+rofi.combi-modi:                     run,drun,ssh,calc
+! "Fullscreen"
+rofi.fullscreen:                     false
+! "Indicate how it match by underlining it." 
+rofi.show-match:                     true
+
