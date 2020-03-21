@@ -1,6 +1,6 @@
 # It's my sxhkd config file, feel free to edit it at yours heart content! :)
-# App launcher
-Menu
+# Rofi
+Menu 
     rofi -show combi
 # Control audio
 XF86AudioMute
