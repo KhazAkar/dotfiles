@@ -20,6 +20,7 @@ In order to use my dotfiles, you would need:
 - Tcl/Tk
 - nitrogen
 - thunderbolt-user-space (TBControl Tcl/Tk GUI script)
+
 I hope that's all of them :)
 
 # Plans
