@@ -16,4 +16,5 @@ echo -e -n "\x1b[\x35 q"
 
 # Aliases
 alias ls='ls --color=auto'
+alias l='ls -la'
 alias sudo='SUDO_ASKPASS=/usr/bin/systemd-ask-password sudo -A'

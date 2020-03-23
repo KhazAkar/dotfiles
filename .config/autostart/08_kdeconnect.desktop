@@ -1,4 +1,4 @@
 [Desktop Entry]
-Exec=$HOME/bin/scripts/apps/kdeconnect.sh
+Exec=/bin/sh -c "cd $HOME/bin/scripts/apps ; ./kdeconnect.sh"
 Name=kdeconnect-indicator
 Type=Application

@@ -1,1 +1,3 @@
+#!/bin/sh
+# Autostart XDG Autostart desktop files
 dex -a &

@@ -1,4 +1,4 @@
 [Desktop Entry]
-Exec=$HOME/bin/scripts/screens/home.sh
+Exec=/bin/sh -c "cd $HOME/bin/scripts/screens ; ./home.sh"
 Name=Setup Displays
 Type=Application

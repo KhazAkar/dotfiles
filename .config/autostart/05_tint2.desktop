@@ -1,4 +1,4 @@
 [Desktop Entry]
-Exec=$HOME/bin/scripts/apps/tint2.sh
+Exec=/bin/sh -c "cd $HOME/bin/scripts/apps ; ./tint2.sh"
 Name=tint2
 Type=Application
