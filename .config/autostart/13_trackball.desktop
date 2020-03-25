@@ -1,0 +1,4 @@
+[Desktop Entry]
+Exec=/bin/sh -c "cd $HOME/bin/scripts/control ; ./trackball"
+Name=Trackball XInput configuration
+Type=Application

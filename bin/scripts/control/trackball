@@ -1,0 +1,4 @@
+#!/bin/sh
+# Xinput settings for Logitech MX Ergo trackball
+xinput set-prop "pointer:Logitech MX Ergo" "libinput Scroll Method Enabled" 0 0 1
+xinput set-prop "pointer:Logitech MX Ergo" "libinput Button Scrolling Button" 9
