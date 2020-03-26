@@ -1,0 +1,23 @@
+#!/usr/bin/tclsh
+# Version 0.1
+# Set destination path to mount iso
+set destpath "$env(HOME)/isomount"
+set isopath "..."
+set filefound {tk_messageBox -message "File loaded in $destpath" -type ok}
+# Import packages
+package require Tk
+# Procedure for selecting a file
+proc onSelect { label } {
+	global isopath
+	set isopath [tk_getOpenFile -parent .]
+	$label configure -text $isopath
+}
+# Create UI
+ttk::label .filepath -text $isopath
+ttk::button .pathselect -text "Select file" -command {onSelect .filepath}
+ttk::button .mountbtn -text "Mount ISO" -command {set execstatus [catch {exec fuseiso $isopath $destpath}]; puts $execstatus ;if {$execstatus == "0"} {eval $filefound}}
+pack .filepath -fill x
+pack .pathselect -fill x
+pack .mountbtn -expand 1 -fill both
+
+
