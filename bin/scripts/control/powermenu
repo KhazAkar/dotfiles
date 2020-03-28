@@ -1,0 +1,20 @@
+#!/usr/bin/env tclsh
+package require Tk
+
+ttk::button .pwroff -text "Power Off" -command {exec systemctl poweroff}
+ttk::button .rbt -text "Reboot" -command {exec systemctl reboot}
+ttk::button .logout -text "Logout" -command {exec openbox --exit}
+ttk::button .hibernate -text "Hibernate" -command {exec systemctl hibernate}
+ttk::button .suspend -text "Suspend" -command {exec systemctl suspend}
+
+pack .pwroff -expand 1 -fill both
+pack .rbt -expand 1 -fill both
+pack .logout -expand 1 -fill both
+pack .hibernate -expand 1 -fill both
+pack .suspend -expand 1 -fill both
+
+bind . <p> ".pwroff invoke"
+bind . <r> ".rbt invoke"
+bind . <l> ".logout invoke"
+bind . <h> ".hibernate invoke"
+bind . <s> ".suspend invoke"

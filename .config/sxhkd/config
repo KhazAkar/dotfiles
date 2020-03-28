@@ -1,4 +1,7 @@
 # It's my sxhkd config file, feel free to edit it at yours heart content! :)
+# Screenshots using flameshot
+Print; {m,s,d}
+    {flameshot gui,flameshot screen -p $HOME/Pictures, flameshot full -p $HOME/Pictures}
 # Rofi
 Menu 
     rofi -show combi
@@ -41,4 +44,7 @@ super + k
     kicad
 super + f ; {c}
     FreeCAD
+# powermenu
+control + shift + p
+    $HOME/bin/scripts/control/powermenu
 # Place for others :)
