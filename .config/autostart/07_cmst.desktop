@@ -1,0 +1,4 @@
+[Desktop Entry]
+Exec=/usr/bin/cmst
+Name=QT5 Applet for Connman
+Type=Application
