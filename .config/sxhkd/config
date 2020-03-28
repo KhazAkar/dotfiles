@@ -32,8 +32,8 @@ super + g
 super + t
     kitty
 # IMs
-super + t
-    $HOME/bin/Telegram/Telegram
+super + i ; {t}
+    {$HOME/bin/Telegram/Telegram}
 # Web browsers
 super + o
     opera
