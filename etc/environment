@@ -1,0 +1,10 @@
+#
+# This file is parsed by pam_env module
+#
+# Syntax: simple "KEY=VAL" pairs on separate lines
+#
+LIBVA_DRIVER_NAME=i965
+MESA_LOADER_DRIVER_OVERRIDE=iris
+CYCLES_CUDA_EXTRA_CFLAGS="-ccbin g++-8"
+GUI_EDITOR=/usr/bin/geany
+EDITOR=/usr/bin/emacs
